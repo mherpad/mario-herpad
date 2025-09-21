@@ -9,7 +9,7 @@ My areas of interest include **artificial intelligence** and **system management
 ## Skills & Technologies
 - **Languages**: Java, JavaScript
 - **Databases**: MySQL, MariaDB
-- **Systems**: Linux (Deb, Mint, **Arch**,...)
+- **Systems**: Linux (Debian, **Arch**, RHEL)
 - **Interests**: Artificial Intelligence, System Administration, Hardware Troubleshooting
 
 ## What I enjoy:
